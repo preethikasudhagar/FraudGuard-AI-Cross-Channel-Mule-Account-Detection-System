@@ -1,0 +1,35 @@
+fraudguard-ai/
+│
+├── backend/
+│   ├── main.py
+│   ├── database.py
+│   ├── models.py
+│   ├── schemas.py
+│   ├── auth.py
+│   ├── fraud_engine.py
+│   ├── ml_model.py
+│   ├── data_generator.py
+│   ├── requirements.txt
+│   └── .env
+│
+├── frontend/
+│   ├── package.json
+│   ├── src/
+│   │   ├── App.jsx
+│   │   ├── api.js
+│   │   ├── theme.css
+│   │   ├── layout/Sidebar.jsx
+│   │   ├── pages/
+│   │   │   ├── Dashboard.jsx
+│   │   │   ├── Login.jsx
+│   │   │   ├── Upload.jsx
+│   │   │   ├── Alerts.jsx
+│   │   ├── components/
+│   │   │   ├── KpiCard.jsx
+│   │   │   ├── FraudChart.jsx
+│   │   │   ├── RiskPie.jsx
+│   │   │   ├── NetworkGraph.jsx
+│   │   │   ├── AlertTable.jsx
+│
+├── docker-compose.yml
+└── README.md
