@@ -1,5 +1,5 @@
-# FraudGuard-AI-Cross-Channel-Mule-Account-Detection-System
-FraudGuard AI is an intelligent graph-based fraud detection system designed to identify mule accounts involved in money laundering and cross-channel financial fraud.
+# FraudGraph-AI-Cross-Channel-Mule-Account-Detection-System
+FraudGraph AI is an intelligent graph-based fraud detection system designed to identify mule accounts involved in money laundering and cross-channel financial fraud.
 
 Our solution analyzes transactions across multiple banking channels such as UPI, net banking, ATM withdrawals, and wallet transfers. Instead of treating transactions independently, we construct a dynamic graph network where:
 
@@ -29,4 +29,4 @@ Real-time risk scoring
 
 Visual fraud network dashboard
 
-FraudGuard AI helps banks proactively detect mule networks, reduce financial losses, and strengthen regulatory compliance.
+FraudGraph AI helps banks proactively detect mule networks, reduce financial losses, and strengthen regulatory compliance.
